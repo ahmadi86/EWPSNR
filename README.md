@@ -2,7 +2,7 @@
 
 **EWPSNR** [1] is a perceptual objective quality metric and considered as the fairest measure when the gaze points are available, because it has its roots in the psychophysical properties of the HVS rather than the coding [2]. The correlation between EWPSNR and MOS (Mean Opinion Score) has been investigated in [3] for an eye-tracking dataset [4]. 
 
-## Resources
+## References
 
 [1] Z. Li, S. Qin and L. Itti, "Visual attention guided bit allocation in video compression," Image and Vision Computing, vol. 29, no. 1, pp. 1-14, 2011. 
 

@@ -5,6 +5,9 @@
 ## Resources
 
 [1] Z. Li, S. Qin and L. Itti, "Visual attention guided bit allocation in video compression," Image and Vision Computing, vol. 29, no. 1, pp. 1-14, 2011. 
+
 [2] J.-S. Lee and T. Ebrahimi, "Perceptual video compression: A survey," Selected Topics in Signal Processing, vol. 6, no. 6, pp. 684-697, 2012. 
+
 [3] Zadtootaghaj, Saman, Hamed Ahmadi, and Sebastian Möller. "Comparison of EWPSNR and MOS on an Eye-tracking Labelled Video Dataset." PQS 2016 5th ISCA/DEGA Workshop on Perceptual Quality of Systems. 2016.
+
 [4] C. Keimel and K. Diepold, "Improving the prediction accuracy of PSNR by simple temporal pooling," in Video Processing and Quality Metrics for Consumer Electronics-VPQM, 2010.
